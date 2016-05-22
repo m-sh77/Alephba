@@ -18,6 +18,7 @@ public class AlephbaUnitActivity extends AppCompatActivity {
 
         TextView aText = (TextView) findViewById(R.id.unit_a_text);
         aText.setText(letters[0]);
+        TextView bText = (TextView) findViewById(R.id.unit_b_text);
         bText.setText(letters[1]);
         TextView cText = (TextView) findViewById(R.id.unit_c_text);
         cText.setText(letters[2]);
