@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="unit1">
+        <item>\u0627</item>
+        <item>\u0628</item>
+        <item>\u067e</item>
+        <item>\u062a</item>
+    </string-array>
+    <string-array name="unit2">
+
+        <item>\u062b</item>
+        <item>\u062c</item>
+        <item>\u0686</item>
+        <item>\u062d</item>
+    </string-array>
+    <string-array name="unit3">
+
+        <item>\u062e</item>
+        <item>\u062f</item>
+        <item>\u0630</item>
+        <item>\u0631</item>
+    </string-array>
+    <string-array name="unit4">
+        <item>\u0632</item>
+        <item>\u0698</item>
+        <item>\u0633</item>
+        <item>\u0634</item>
+
+    </string-array>
+    <string-array name="unit5">
+        <item>\u0635</item>
+        <item>\u0636</item>
+        <item>\u0637</item>
+        <item>\u0638</item>
+    </string-array>
+    <string-array name="unit6">
+        <item>\u0639</item>
+        <item>\u063a</item>
+        <item>\u0641</item>
+        <item>\u0642</item>
+    </string-array>
+    <string-array name="unit7">
+        <item>\u0643</item>
+        <item>\u06af</item>
+        <item>\u0644</item>
+        <item>\u0645</item>
+    </string-array>
+    <string-array name="unit8">
+        <item>\u0646</item>
+        <item>\u0648</item>
+        <item>\u0647</item>
+        <item>\u06cc</item>
+    </string-array>
+
+
+</resources>

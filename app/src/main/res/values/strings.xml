@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Alephba</string>
+    <string name="single_text">Isoliert</string>
+    <string name="initial_text">Initial</string>
+    <string name="profile_text">Profil</string>
+    <string name="about_text">Über</string>
+    <string name="start_text">Start</string>
+    <string name="unit">Lektion</string>
 </resources>
